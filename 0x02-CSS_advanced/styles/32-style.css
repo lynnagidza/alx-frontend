@@ -1,7 +1,7 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
 
 :root {
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
